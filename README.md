@@ -22,6 +22,7 @@ In this case, we’ll be using an Element.matches() method that is not supported
         };
   }
 </script>
+![image](https://github.com/xeniusdigital/ElementorFormTracking-via-GTM/assets/5832613/601c3725-f286-4506-b107-4fd5d596b44e)
 
 
 #2. Utility variable
